@@ -1,47 +1,62 @@
-# 🌐 Animated Portfolio Website
+# Animated Portfolio Website
 
-## 🚀 Live Demo
+## Overview
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+This is a modern **Animated Portfolio Website** designed to showcase personal skills, projects, and professional information in an interactive and visually appealing way. The portfolio highlights development work, technical skills, and project experience while providing a smooth user experience with animations and responsive design.
 
-## 🛠️ Tech Stack
+## Features
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 💾 Netlify(for deployment)
+* Modern and responsive user interface
+* Smooth animations and interactive UI components
+* Clean and well-structured layout for showcasing projects and skills
+* Fully responsive design compatible with mobile, tablet, and desktop devices
+* Organized sections including About, Skills, Projects, Education, and Contact
 
-## 📁 Features
+## Technologies Used
 
-- Responsive design for all screen sizes 📱💻
-- Smooth scroll and animation effects ✨
-- Clean and modular React components 🧩
-- Easy to customize with Tailwind utility classes 🎯
-- Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Tailwind CSS
+* Vite
 
+## Project Structure
 
-## 🧑‍💻 How to Use
+The project is organized into reusable components to maintain clean and scalable code. Components such as Navbar, About, Skills, Work, Education, Experience, and Contact are structured separately for better maintainability.
 
-### 1. Clone the Repo
+## Installation and Setup
 
-```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
-cd your-repo-name
-````
+To run this project locally, follow these steps:
 
-### 2. Install Dependencies
+1. Clone the repository
+   git clone <repository-url>
 
-```bash
-npm install
-```
+2. Navigate to the project directory
+   cd project-folder
 
-### 3. Run the App
+3. Install dependencies
+   npm install
 
-```bash
-npm start
-```
+4. Run the development server
+   npm run dev
 
-### 4. Build for Production
+The application will start on **http://localhost:5173**.
 
-```bash
-npm run build
-```
+## Purpose of the Project
+
+The main objective of this portfolio is to present development skills, demonstrate real projects, and provide recruiters or visitors with a clear overview of technical capabilities and experience.
+
+## Future Improvements
+
+* Add more real-world projects
+* Integrate a backend for contact form
+* Improve animations and performance
+* Deploy the portfolio with a custom domain
+
+## Author
+
+**Sandeep Gupta**
+
+This project represents my work in frontend development and showcases my ability to build responsive and interactive web applications.
+
